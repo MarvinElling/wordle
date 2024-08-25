@@ -1,0 +1,2 @@
+LANGUAGE = "de"
+WORD_LENGTH = 5
